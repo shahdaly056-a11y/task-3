@@ -1,0 +1,89 @@
+*{
+  box-sizing: border-box;
+}
+
+h1{
+    color: Black;
+    font-weight: 600;
+    font-size: x-large;
+} 
+
+p{
+    color: grey;
+    font-size:medium;
+    font-weight:100;
+}
+
+  h2{
+        color: Black;
+    font-weight: 600;
+    font-size: x-large;
+  }
+
+  h3{
+    color: Black;
+    font-weight: 600;
+    font-size: x-large;
+  }
+
+  h4{
+      color: Black;
+    font-weight: 600;
+    font-size: x-large;
+  }
+.title{
+  color: brown;
+  font-size: x-large;
+}
+ul {
+  color: chocolate;
+  font-size: larger;
+}
+ol{
+  color:olive;
+  font-size: larger;
+}
+
+table{
+  width: 50%;
+}
+
+td{
+  padding: 15px;
+  border-bottom: 1px solid;
+}
+
+value{
+  color: grey;
+}
+
+span{
+  color: grey;
+}
+
+.prep{
+  padding: 5px;
+  background-color: #C5C2CF;
+}
+
+.recipe img{
+  display: block;
+  width: 100%;
+  max-width: 700vw;
+  border-radius: 15px;
+  margin: auto;
+  height: 250px;
+  justify-content: baseline;
+  
+}
+
+body{
+   align-items:center;
+   justify-content:center;
+}
+
+/* .recipe{
+  width: 900px;
+  height: 400px;
+   margin: 0;  
+} */
